@@ -1,0 +1,2588 @@
+{
+    "00d0cf40-f266-11e7-93b0-adc58ef477c1": {
+        "children": {
+            "08042760-f268-11e7-be3a-f595c2c98a2b": false
+        },
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "00d0cf40-f266-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Supporting Claims",
+        "parents": {
+            "efddf910-f265-11e7-93b0-adc58ef477c1": true
+        },
+        "source": "ACT"
+    },
+    "014782b0-f262-11e7-93b0-adc58ef477c1": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "014782b0-f262-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Function Graphs - Modeling & Relations",
+        "parents": {
+            "cd45e970-f261-11e7-93b0-adc58ef477c1": false
+        },
+        "source": "ACT"
+    },
+    "035658c0-f252-11e7-9eff-e31d46913e2f": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "035658c0-f252-11e7-9eff-e31d46913e2f",
+        "matchedItems": null,
+        "name": "Averages, Median & Mode",
+        "parents": {
+            "e1e56730-f251-11e7-9eff-e31d46913e2f": false,
+            "f1fcaa70-f251-11e7-9eff-e31d46913e2f": true
+        },
+        "source": "ACT"
+    },
+    "0407c130-f10f-11e7-8c0b-012d13d1dc98": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "0407c130-f10f-11e7-8c0b-012d13d1dc98",
+        "matchedItems": null,
+        "name": "Sentence Sequence",
+        "parents": {
+            "dc5ba840-f10e-11e7-8c0b-012d13d1dc98": true
+        },
+        "source": "ACT"
+    },
+    "07fbd430-f10e-11e7-8c0b-012d13d1dc98": {
+        "children": {
+            "2a3768c0-f10e-11e7-8c0b-012d13d1dc98": true,
+            "4c139f40-f10e-11e7-8c0b-012d13d1dc98": true,
+            "54e96eb0-f10e-11e7-8c0b-012d13d1dc98": true,
+            "5ca1e740-f10e-11e7-8c0b-012d13d1dc98": true,
+            "65112cb0-f10e-11e7-8c0b-012d13d1dc98": true,
+            "6cbfe140-f10e-11e7-8c0b-012d13d1dc98": true
+        },
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "07fbd430-f10e-11e7-8c0b-012d13d1dc98",
+        "matchedItems": null,
+        "name": "Sentence Structure Disturbances",
+        "parents": {
+            "fd1ca030-f10d-11e7-8c0b-012d13d1dc98": true
+        },
+        "source": "ACT"
+    },
+    "08042760-f268-11e7-be3a-f595c2c98a2b": {
+        "children": {
+            "212665c0-f266-11e7-93b0-adc58ef477c1": true,
+            "9b09ff90-f262-11e7-93b0-adc58ef477c1": true,
+            "d9511240-f10c-11e7-8c0b-012d13d1dc98": true,
+            "e1e56730-f251-11e7-9eff-e31d46913e2f": true
+        },
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "08042760-f268-11e7-be3a-f595c2c98a2b",
+        "matchedItems": null,
+        "name": "ACT",
+        "parents": {
+            "00d0cf40-f266-11e7-93b0-adc58ef477c1": false
+        },
+        "source": "ACT"
+    },
+    "0b30cfe0-f260-11e7-a1de-012155fcf5bd": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "0b30cfe0-f260-11e7-a1de-012155fcf5bd",
+        "matchedItems": null,
+        "name": "Arithmetic",
+        "parents": {
+            "4e5adf90-f260-11e7-a381-213231f6f6cb": true
+        },
+        "source": "ACT"
+    },
+    "0b7e6bf0-f266-11e7-93b0-adc58ef477c1": {
+        "children": {
+            "12b0c490-f266-11e7-93b0-adc58ef477c1": true,
+            "19d33eb0-f266-11e7-93b0-adc58ef477c1": true
+        },
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "0b7e6bf0-f266-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Multiple Texts",
+        "parents": {
+            "9b09ff90-f262-11e7-93b0-adc58ef477c1": true
+        },
+        "source": "ACT"
+    },
+    "0b8ebc70-f262-11e7-93b0-adc58ef477c1": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "0b8ebc70-f262-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Functions - Understanding & Evaluating",
+        "parents": {
+            "cd45e970-f261-11e7-93b0-adc58ef477c1": true
+        },
+        "source": "ACT"
+    },
+    "105c8b70-f252-11e7-9eff-e31d46913e2f": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "105c8b70-f252-11e7-9eff-e31d46913e2f",
+        "matchedItems": null,
+        "name": "Counting",
+        "parents": {
+            "e1e56730-f251-11e7-9eff-e31d46913e2f": false,
+            "f1fcaa70-f251-11e7-9eff-e31d46913e2f": true
+        },
+        "source": "ACT"
+    },
+    "107d73b0-f10f-11e7-8c0b-012d13d1dc98": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "107d73b0-f10f-11e7-8c0b-012d13d1dc98",
+        "matchedItems": null,
+        "name": "Paragraph Sequence",
+        "parents": {
+            "dc5ba840-f10e-11e7-8c0b-012d13d1dc98": true
+        },
+        "source": "ACT"
+    },
+    "12b0c490-f266-11e7-93b0-adc58ef477c1": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "12b0c490-f266-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Compare Two Texts",
+        "parents": {
+            "0b7e6bf0-f266-11e7-93b0-adc58ef477c1": true
+        },
+        "source": "ACT"
+    },
+    "12bc83b0-f10e-11e7-8c0b-012d13d1dc98": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "12bc83b0-f10e-11e7-8c0b-012d13d1dc98",
+        "matchedItems": null,
+        "name": "Verb Tense & Pronoun Person",
+        "parents": {
+            "fd1ca030-f10d-11e7-8c0b-012d13d1dc98": true
+        },
+        "source": "ACT"
+    },
+    "15fcb810-f262-11e7-93b0-adc58ef477c1": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "15fcb810-f262-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Properties of Functions",
+        "parents": {
+            "cd45e970-f261-11e7-93b0-adc58ef477c1": true
+        },
+        "source": "ACT"
+    },
+    "180d7cb0-f10f-11e7-8c0b-012d13d1dc98": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "180d7cb0-f10f-11e7-8c0b-012d13d1dc98",
+        "matchedItems": null,
+        "name": "Transitions",
+        "parents": {
+            "dc5ba840-f10e-11e7-8c0b-012d13d1dc98": true
+        },
+        "source": "ACT"
+    },
+    "19d33eb0-f266-11e7-93b0-adc58ef477c1": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "19d33eb0-f266-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Conclusions Two Texts",
+        "parents": {
+            "0b7e6bf0-f266-11e7-93b0-adc58ef477c1": true
+        },
+        "source": "ACT"
+    },
+    "1b50f520-f252-11e7-9eff-e31d46913e2f": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "1b50f520-f252-11e7-9eff-e31d46913e2f",
+        "matchedItems": null,
+        "name": "Studies & Models",
+        "parents": {
+            "e1e56730-f251-11e7-9eff-e31d46913e2f": false,
+            "f1fcaa70-f251-11e7-9eff-e31d46913e2f": true
+        },
+        "source": "ACT"
+    },
+    "1dc9bf80-f261-11e7-93b0-adc58ef477c1": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "1dc9bf80-f261-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Equations - Coordinate Plane",
+        "parents": {
+            "4e5adf90-f260-11e7-a381-213231f6f6cb": true
+        },
+        "source": "ACT"
+    },
+    "1edbaf40-f262-11e7-93b0-adc58ef477c1": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "1edbaf40-f262-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Modeling",
+        "parents": {
+            "cd45e970-f261-11e7-93b0-adc58ef477c1": true
+        },
+        "source": "ACT"
+    },
+    "212665c0-f266-11e7-93b0-adc58ef477c1": {
+        "children": {
+            "3127d710-f266-11e7-93b0-adc58ef477c1": true,
+            "61603de0-f267-11e7-93b0-adc58ef477c1": true,
+            "6a033d80-f267-11e7-93b0-adc58ef477c1": false,
+            "a7203020-f266-11e7-93b0-adc58ef477c1": true
+        },
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "212665c0-f266-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "ACT Science",
+        "parents": {
+            "08042760-f268-11e7-be3a-f595c2c98a2b": true
+        },
+        "source": "ACT"
+    },
+    "21a20840-f10f-11e7-8c0b-012d13d1dc98": {
+        "children": {
+            "29138cc0-f10f-11e7-8c0b-012d13d1dc98": true,
+            "32e632c0-f10f-11e7-8c0b-012d13d1dc98": true,
+            "39c53b40-f10f-11e7-8c0b-012d13d1dc98": true,
+            "422d54c0-f10f-11e7-8c0b-012d13d1dc98": true
+        },
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "21a20840-f10f-11e7-8c0b-012d13d1dc98",
+        "matchedItems": null,
+        "name": "Topic Development",
+        "parents": {
+            "d9511240-f10c-11e7-8c0b-012d13d1dc98": true
+        },
+        "source": "ACT"
+    },
+    "24ab0fc0-f252-11e7-9eff-e31d46913e2f": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "24ab0fc0-f252-11e7-9eff-e31d46913e2f",
+        "matchedItems": null,
+        "name": "Data Interpretation",
+        "parents": null,
+        "source": "ACT"
+    },
+    "2598b0d0-f262-11e7-93b0-adc58ef477c1": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "2598b0d0-f262-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Logarithms",
+        "parents": {
+            "cd45e970-f261-11e7-93b0-adc58ef477c1": true
+        },
+        "source": "ACT"
+    },
+    "25d67060-f252-11e7-9eff-e31d46913e2f": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "25d67060-f252-11e7-9eff-e31d46913e2f",
+        "matchedItems": null,
+        "name": "Probability",
+        "parents": {
+            "e1e56730-f251-11e7-9eff-e31d46913e2f": false,
+            "f1fcaa70-f251-11e7-9eff-e31d46913e2f": true
+        },
+        "source": "ACT"
+    },
+    "29138cc0-f10f-11e7-8c0b-012d13d1dc98": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "29138cc0-f10f-11e7-8c0b-012d13d1dc98",
+        "matchedItems": null,
+        "name": "Accomplish Purpose",
+        "parents": {
+            "21a20840-f10f-11e7-8c0b-012d13d1dc98": true
+        },
+        "source": "ACT"
+    },
+    "2a3768c0-f10e-11e7-8c0b-012d13d1dc98": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "2a3768c0-f10e-11e7-8c0b-012d13d1dc98",
+        "matchedItems": null,
+        "name": "Faulty Coordination & Subordination",
+        "parents": {
+            "07fbd430-f10e-11e7-8c0b-012d13d1dc98": true
+        },
+        "source": "ACT"
+    },
+    "2a5d5a40-f261-11e7-93b0-adc58ef477c1": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "2a5d5a40-f261-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Equations - Modeling & Relations",
+        "parents": {
+            "4e5adf90-f260-11e7-a381-213231f6f6cb": true
+        },
+        "source": "ACT"
+    },
+    "2a794930-f10d-11e7-8c0b-012d13d1dc98": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "2a794930-f10d-11e7-8c0b-012d13d1dc98",
+        "matchedItems": null,
+        "name": "Ambiguity & Series",
+        "parents": {
+            "f1371530-f10c-11e7-8c0b-012d13d1dc98": true
+        },
+        "source": "ACT"
+    },
+    "2c5711f0-f262-11e7-93b0-adc58ef477c1": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "2c5711f0-f262-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Patterns & Sequences",
+        "parents": {
+            "cd45e970-f261-11e7-93b0-adc58ef477c1": true
+        },
+        "source": "ACT"
+    },
+    "2e031ba0-f25f-11e7-bd0e-cd70785da16e": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "2e031ba0-f25f-11e7-bd0e-cd70785da16e",
+        "matchedItems": null,
+        "name": "Exponents & Roots",
+        "parents": {
+            "4e5adf90-f260-11e7-a381-213231f6f6cb": true
+        },
+        "source": "ACT"
+    },
+    "3127d710-f266-11e7-93b0-adc58ef477c1": {
+        "children": {
+            "3b5ff5a0-f266-11e7-93b0-adc58ef477c1": true,
+            "4273f0d0-f266-11e7-93b0-adc58ef477c1": true,
+            "478ba6d0-f266-11e7-93b0-adc58ef477c1": true,
+            "84bc04f0-f266-11e7-93b0-adc58ef477c1": true,
+            "8b657e80-f266-11e7-93b0-adc58ef477c1": true,
+            "940e7190-f266-11e7-93b0-adc58ef477c1": true,
+            "9ecb5080-f266-11e7-93b0-adc58ef477c1": true
+        },
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "3127d710-f266-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Evaluation of Models",
+        "parents": {
+            "212665c0-f266-11e7-93b0-adc58ef477c1": true
+        },
+        "source": "ACT"
+    },
+    "32e632c0-f10f-11e7-8c0b-012d13d1dc98": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "32e632c0-f10f-11e7-8c0b-012d13d1dc98",
+        "matchedItems": null,
+        "name": "Writer's Goal",
+        "parents": {
+            "21a20840-f10f-11e7-8c0b-012d13d1dc98": true
+        },
+        "source": "ACT"
+    },
+    "33723910-f262-11e7-93b0-adc58ef477c1": {
+        "children": {
+            "3a0bad10-f262-11e7-93b0-adc58ef477c1": true,
+            "404ffc30-f262-11e7-93b0-adc58ef477c1": true,
+            "463dc6e0-f262-11e7-93b0-adc58ef477c1": true,
+            "4ee7cb60-f262-11e7-93b0-adc58ef477c1": true,
+            "528da1e0-f262-11e7-93b0-adc58ef477c1": true,
+            "580af780-f262-11e7-93b0-adc58ef477c1": true,
+            "5e62cea0-f262-11e7-93b0-adc58ef477c1": true,
+            "69411840-f262-11e7-93b0-adc58ef477c1": true,
+            "70e62fe0-f262-11e7-93b0-adc58ef477c1": true,
+            "79588290-f262-11e7-93b0-adc58ef477c1": true,
+            "7e446da0-f262-11e7-93b0-adc58ef477c1": true
+        },
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "33723910-f262-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Geometry",
+        "parents": {
+            "e1e56730-f251-11e7-9eff-e31d46913e2f": true
+        },
+        "source": "ACT"
+    },
+    "39c53b40-f10f-11e7-8c0b-012d13d1dc98": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "39c53b40-f10f-11e7-8c0b-012d13d1dc98",
+        "matchedItems": null,
+        "name": "Identify Purpose",
+        "parents": {
+            "21a20840-f10f-11e7-8c0b-012d13d1dc98": true
+        },
+        "source": "ACT"
+    },
+    "3a0bad10-f262-11e7-93b0-adc58ef477c1": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "3a0bad10-f262-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Angles & Shapes",
+        "parents": {
+            "33723910-f262-11e7-93b0-adc58ef477c1": true
+        },
+        "source": "ACT"
+    },
+    "3b5ff5a0-f266-11e7-93b0-adc58ef477c1": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "3b5ff5a0-f266-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Assumptions, Strengths & Weaknesses",
+        "parents": {
+            "3127d710-f266-11e7-93b0-adc58ef477c1": true
+        },
+        "source": "ACT"
+    },
+    "3cb88b50-f267-11e7-93b0-adc58ef477c1": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "3cb88b50-f267-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "New Information",
+        "parents": {
+            "a7203020-f266-11e7-93b0-adc58ef477c1": true
+        },
+        "source": "ACT"
+    },
+    "3ce9beb0-f10d-11e7-8c0b-012d13d1dc98": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "3ce9beb0-f10d-11e7-8c0b-012d13d1dc98",
+        "matchedItems": null,
+        "name": "Apostrophes",
+        "parents": {
+            "f1371530-f10c-11e7-8c0b-012d13d1dc98": true
+        },
+        "source": "ACT"
+    },
+    "404ffc30-f262-11e7-93b0-adc58ef477c1": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "404ffc30-f262-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Circles & Parabolas - Coordinate Plane",
+        "parents": {
+            "33723910-f262-11e7-93b0-adc58ef477c1": true
+        },
+        "source": "ACT"
+    },
+    "422d54c0-f10f-11e7-8c0b-012d13d1dc98": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "422d54c0-f10f-11e7-8c0b-012d13d1dc98",
+        "matchedItems": null,
+        "name": "Relevance",
+        "parents": {
+            "21a20840-f10f-11e7-8c0b-012d13d1dc98": true
+        },
+        "source": "ACT"
+    },
+    "423348e0-f267-11e7-93b0-adc58ef477c1": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "423348e0-f267-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Select Data & Features",
+        "parents": {
+            "a7203020-f266-11e7-93b0-adc58ef477c1": true
+        },
+        "source": "ACT"
+    },
+    "4273f0d0-f266-11e7-93b0-adc58ef477c1": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "4273f0d0-f266-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Compare Models",
+        "parents": {
+            "3127d710-f266-11e7-93b0-adc58ef477c1": true
+        },
+        "source": "ACT"
+    },
+    "437e6ab0-f260-11e7-b30a-31058c0395d0": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "437e6ab0-f260-11e7-b30a-31058c0395d0",
+        "matchedItems": null,
+        "name": "Creating Expressions",
+        "parents": {
+            "4e5adf90-f260-11e7-a381-213231f6f6cb": true
+        },
+        "source": "ACT"
+    },
+    "458ee130-f10d-11e7-8c0b-012d13d1dc98": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "458ee130-f10d-11e7-8c0b-012d13d1dc98",
+        "matchedItems": null,
+        "name": "Colons & Semicolons",
+        "parents": {
+            "f1371530-f10c-11e7-8c0b-012d13d1dc98": true
+        },
+        "source": "ACT"
+    },
+    "463dc6e0-f262-11e7-93b0-adc58ef477c1": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "463dc6e0-f262-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Circles - Plane Geometry",
+        "parents": {
+            "33723910-f262-11e7-93b0-adc58ef477c1": true
+        },
+        "source": "ACT"
+    },
+    "478ba6d0-f266-11e7-93b0-adc58ef477c1": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "478ba6d0-f266-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Consistency of Hypotheses, Predictions & Conclusions",
+        "parents": {
+            "3127d710-f266-11e7-93b0-adc58ef477c1": true
+        },
+        "source": "ACT"
+    },
+    "4ab09810-f267-11e7-93b0-adc58ef477c1": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "4ab09810-f267-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Terminology",
+        "parents": {
+            "a7203020-f266-11e7-93b0-adc58ef477c1": true
+        },
+        "source": "ACT"
+    },
+    "4c139f40-f10e-11e7-8c0b-012d13d1dc98": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "4c139f40-f10e-11e7-8c0b-012d13d1dc98",
+        "matchedItems": null,
+        "name": "Fragments & Fused Sentences",
+        "parents": {
+            "07fbd430-f10e-11e7-8c0b-012d13d1dc98": true
+        },
+        "source": "ACT"
+    },
+    "4e5adf90-f260-11e7-a381-213231f6f6cb": {
+        "children": {
+            "0b30cfe0-f260-11e7-a1de-012155fcf5bd": true,
+            "1dc9bf80-f261-11e7-93b0-adc58ef477c1": true,
+            "2a5d5a40-f261-11e7-93b0-adc58ef477c1": true,
+            "2e031ba0-f25f-11e7-bd0e-cd70785da16e": true,
+            "437e6ab0-f260-11e7-b30a-31058c0395d0": true,
+            "5152b840-f25f-11e7-88e3-ff38f540e9a5": true,
+            "a63d1560-f261-11e7-93b0-adc58ef477c1": true,
+            "afc80400-f261-11e7-93b0-adc58ef477c1": true,
+            "bd40f5b0-f261-11e7-93b0-adc58ef477c1": true,
+            "c58867d0-f261-11e7-93b0-adc58ef477c1": true
+        },
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "4e5adf90-f260-11e7-a381-213231f6f6cb",
+        "matchedItems": null,
+        "name": "Algebra",
+        "parents": {
+            "e1e56730-f251-11e7-9eff-e31d46913e2f": true
+        },
+        "source": "ACT"
+    },
+    "4ee7cb60-f262-11e7-93b0-adc58ef477c1": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "4ee7cb60-f262-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Locating Points",
+        "parents": {
+            "33723910-f262-11e7-93b0-adc58ef477c1": true
+        },
+        "source": "ACT"
+    },
+    "50ba7640-f267-11e7-93b0-adc58ef477c1": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "50ba7640-f267-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Text & Representations",
+        "parents": {
+            "a7203020-f266-11e7-93b0-adc58ef477c1": true
+        },
+        "source": "ACT"
+    },
+    "5152b840-f25f-11e7-88e3-ff38f540e9a5": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "5152b840-f25f-11e7-88e3-ff38f540e9a5",
+        "matchedItems": null,
+        "name": "Expressions",
+        "parents": {
+            "4e5adf90-f260-11e7-a381-213231f6f6cb": true
+        },
+        "source": "ACT"
+    },
+    "528da1e0-f262-11e7-93b0-adc58ef477c1": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "528da1e0-f262-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Logic",
+        "parents": {
+            "33723910-f262-11e7-93b0-adc58ef477c1": true
+        },
+        "source": "ACT"
+    },
+    "52dc7870-f252-11e7-9eff-e31d46913e2f": {
+        "children": {
+            "52ea0d00-f252-11e7-9eff-e31d46913e2f": true,
+            "5ee00830-f252-11e7-9eff-e31d46913e2f": true,
+            "736a35f0-f252-11e7-9eff-e31d46913e2f": true,
+            "7bc1ada0-f252-11e7-9eff-e31d46913e2f": true,
+            "838c2790-f252-11e7-9eff-e31d46913e2f": true,
+            "8af0dad0-f252-11e7-9eff-e31d46913e2f": true,
+            "935cebf0-f252-11e7-9eff-e31d46913e2f": true
+        },
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "52dc7870-f252-11e7-9eff-e31d46913e2f",
+        "matchedItems": null,
+        "name": "Number & Quantity",
+        "parents": {
+            "e1e56730-f251-11e7-9eff-e31d46913e2f": true
+        },
+        "source": "ACT"
+    },
+    "52ea0d00-f252-11e7-9eff-e31d46913e2f": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "52ea0d00-f252-11e7-9eff-e31d46913e2f",
+        "matchedItems": null,
+        "name": "Factors",
+        "parents": {
+            "52dc7870-f252-11e7-9eff-e31d46913e2f": true
+        },
+        "source": "ACT"
+    },
+    "54e96eb0-f10e-11e7-8c0b-012d13d1dc98": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "54e96eb0-f10e-11e7-8c0b-012d13d1dc98",
+        "matchedItems": null,
+        "name": "Misplaced Modifiers & Phrases",
+        "parents": {
+            "07fbd430-f10e-11e7-8c0b-012d13d1dc98": true
+        },
+        "source": "ACT"
+    },
+    "580af780-f262-11e7-93b0-adc58ef477c1": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "580af780-f262-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Slope, Midpoint & Distance",
+        "parents": {
+            "33723910-f262-11e7-93b0-adc58ef477c1": true
+        },
+        "source": "ACT"
+    },
+    "590c96c0-f267-11e7-93b0-adc58ef477c1": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "590c96c0-f267-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Variables & Mathematical Relationships",
+        "parents": {
+            "a7203020-f266-11e7-93b0-adc58ef477c1": true
+        },
+        "source": "ACT"
+    },
+    "5ca1e740-f10e-11e7-8c0b-012d13d1dc98": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "5ca1e740-f10e-11e7-8c0b-012d13d1dc98",
+        "matchedItems": null,
+        "name": "Parallelism",
+        "parents": {
+            "07fbd430-f10e-11e7-8c0b-012d13d1dc98": true
+        },
+        "source": "ACT"
+    },
+    "5e62cea0-f262-11e7-93b0-adc58ef477c1": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "5e62cea0-f262-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Area, Perimeter, Volume & Circumference",
+        "parents": {
+            "33723910-f262-11e7-93b0-adc58ef477c1": true
+        },
+        "source": "ACT"
+    },
+    "5ee00830-f252-11e7-9eff-e31d46913e2f": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "5ee00830-f252-11e7-9eff-e31d46913e2f",
+        "matchedItems": null,
+        "name": "Complex Numbers",
+        "parents": {
+            "52dc7870-f252-11e7-9eff-e31d46913e2f": true
+        },
+        "source": "ACT"
+    },
+    "61603de0-f267-11e7-93b0-adc58ef477c1": {
+        "children": {
+            "6a033d80-f267-11e7-93b0-adc58ef477c1": true,
+            "6eb0e710-f267-11e7-93b0-adc58ef477c1": true,
+            "8214bd40-f267-11e7-93b0-adc58ef477c1": true,
+            "88330dd0-f267-11e7-93b0-adc58ef477c1": true,
+            "8c168990-f267-11e7-93b0-adc58ef477c1": true,
+            "939cf5a0-f267-11e7-93b0-adc58ef477c1": true,
+            "9d20df60-f267-11e7-93b0-adc58ef477c1": true,
+            "a3a82af0-f267-11e7-93b0-adc58ef477c1": true,
+            "a9ec5300-f267-11e7-93b0-adc58ef477c1": true
+        },
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "61603de0-f267-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Scientific Investigation",
+        "parents": {
+            "212665c0-f266-11e7-93b0-adc58ef477c1": true
+        },
+        "source": "ACT"
+    },
+    "61bfd440-f10d-11e7-8c0b-012d13d1dc98": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "61bfd440-f10d-11e7-8c0b-012d13d1dc98",
+        "matchedItems": null,
+        "name": "Parenthetical Elements",
+        "parents": {
+            "f1371530-f10c-11e7-8c0b-012d13d1dc98": true
+        },
+        "source": "ACT"
+    },
+    "65112cb0-f10e-11e7-8c0b-012d13d1dc98": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "65112cb0-f10e-11e7-8c0b-012d13d1dc98",
+        "matchedItems": null,
+        "name": "Participial Phrases",
+        "parents": {
+            "07fbd430-f10e-11e7-8c0b-012d13d1dc98": true
+        },
+        "source": "ACT"
+    },
+    "69411840-f262-11e7-93b0-adc58ef477c1": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "69411840-f262-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Translation, Rotation, Reflection & Relative Equations",
+        "parents": {
+            "33723910-f262-11e7-93b0-adc58ef477c1": true
+        },
+        "source": "ACT"
+    },
+    "6a033d80-f267-11e7-93b0-adc58ef477c1": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "6a033d80-f267-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Comparison",
+        "parents": {
+            "212665c0-f266-11e7-93b0-adc58ef477c1": false,
+            "61603de0-f267-11e7-93b0-adc58ef477c1": true
+        },
+        "source": "ACT"
+    },
+    "6cbfe140-f10e-11e7-8c0b-012d13d1dc98": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "6cbfe140-f10e-11e7-8c0b-012d13d1dc98",
+        "matchedItems": null,
+        "name": "Relative Pronouns",
+        "parents": {
+            "07fbd430-f10e-11e7-8c0b-012d13d1dc98": true
+        },
+        "source": "ACT"
+    },
+    "6eb0e710-f267-11e7-93b0-adc58ef477c1": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "6eb0e710-f267-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Control",
+        "parents": {
+            "61603de0-f267-11e7-93b0-adc58ef477c1": true
+        },
+        "source": "ACT"
+    },
+    "6efb47c0-f10d-11e7-8c0b-012d13d1dc98": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "6efb47c0-f10d-11e7-8c0b-012d13d1dc98",
+        "matchedItems": null,
+        "name": "Unnecessary Commas",
+        "parents": {
+            "f1371530-f10c-11e7-8c0b-012d13d1dc98": true
+        },
+        "source": "ACT"
+    },
+    "70e62fe0-f262-11e7-93b0-adc58ef477c1": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "70e62fe0-f262-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Triangles",
+        "parents": {
+            "33723910-f262-11e7-93b0-adc58ef477c1": true
+        },
+        "source": "ACT"
+    },
+    "736a35f0-f252-11e7-9eff-e31d46913e2f": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "736a35f0-f252-11e7-9eff-e31d46913e2f",
+        "matchedItems": null,
+        "name": "Fractions",
+        "parents": {
+            "52dc7870-f252-11e7-9eff-e31d46913e2f": true
+        },
+        "source": "ACT"
+    },
+    "78d8ea40-f10d-11e7-8c0b-012d13d1dc98": {
+        "children": {
+            "827e65c0-f10d-11e7-8c0b-012d13d1dc98": true,
+            "84149160-8f56-11e8-aec0-d7706cc09bba": true,
+            "8c80a740-f10d-11e7-8c0b-012d13d1dc98": true,
+            "94354f40-f10d-11e7-8c0b-012d13d1dc98": true,
+            "a408d2c0-f10d-11e7-8c0b-012d13d1dc98": true,
+            "d3528940-f10d-11e7-8c0b-012d13d1dc98": true,
+            "db99ad40-f10d-11e7-8c0b-012d13d1dc98": true,
+            "ebf350b0-f10d-11e7-8c0b-012d13d1dc98": true,
+            "f291cdc0-f10d-11e7-8c0b-012d13d1dc98": true
+        },
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "78d8ea40-f10d-11e7-8c0b-012d13d1dc98",
+        "matchedItems": null,
+        "name": "Usage Conventions",
+        "parents": {
+            "d9511240-f10c-11e7-8c0b-012d13d1dc98": true
+        },
+        "source": "ACT"
+    },
+    "79588290-f262-11e7-93b0-adc58ef477c1": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "79588290-f262-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Trig Geometry",
+        "parents": {
+            "33723910-f262-11e7-93b0-adc58ef477c1": true
+        },
+        "source": "ACT"
+    },
+    "7a430240-f265-11e7-93b0-adc58ef477c1": {
+        "children": {
+            "84dffd20-f265-11e7-93b0-adc58ef477c1": true,
+            "8b11fcc0-f265-11e7-93b0-adc58ef477c1": true,
+            "93f47660-f265-11e7-93b0-adc58ef477c1": true
+        },
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "7a430240-f265-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Relationships",
+        "parents": {
+            "9b09ff90-f262-11e7-93b0-adc58ef477c1": true
+        },
+        "source": "ACT"
+    },
+    "7bc1ada0-f252-11e7-9eff-e31d46913e2f": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "7bc1ada0-f252-11e7-9eff-e31d46913e2f",
+        "matchedItems": null,
+        "name": "Matrices",
+        "parents": {
+            "52dc7870-f252-11e7-9eff-e31d46913e2f": true
+        },
+        "source": "ACT"
+    },
+    "7e446da0-f262-11e7-93b0-adc58ef477c1": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "7e446da0-f262-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Using Formulas",
+        "parents": {
+            "33723910-f262-11e7-93b0-adc58ef477c1": true
+        },
+        "source": "ACT"
+    },
+    "7fc19a40-f10e-11e7-8c0b-012d13d1dc98": {
+        "children": {
+            "88dbc5b0-f10e-11e7-8c0b-012d13d1dc98": true,
+            "94562840-f10e-11e7-8c0b-012d13d1dc98": true,
+            "c04e42c0-f10e-11e7-8c0b-012d13d1dc98": true,
+            "c9837040-f10e-11e7-8c0b-012d13d1dc98": true,
+            "d0c2e840-f10e-11e7-8c0b-012d13d1dc98": true
+        },
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "7fc19a40-f10e-11e7-8c0b-012d13d1dc98",
+        "matchedItems": null,
+        "name": "Knowledge of Language",
+        "parents": {
+            "d9511240-f10c-11e7-8c0b-012d13d1dc98": true
+        },
+        "source": "ACT"
+    },
+    "8214bd40-f267-11e7-93b0-adc58ef477c1": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "8214bd40-f267-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Hypothesis",
+        "parents": {
+            "61603de0-f267-11e7-93b0-adc58ef477c1": true
+        },
+        "source": "ACT"
+    },
+    "827e65c0-f10d-11e7-8c0b-012d13d1dc98": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "827e65c0-f10d-11e7-8c0b-012d13d1dc98",
+        "matchedItems": null,
+        "name": "Comparatives & Superlatives",
+        "parents": {
+            "78d8ea40-f10d-11e7-8c0b-012d13d1dc98": true
+        },
+        "source": "ACT"
+    },
+    "838c2790-f252-11e7-9eff-e31d46913e2f": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "838c2790-f252-11e7-9eff-e31d46913e2f",
+        "matchedItems": null,
+        "name": "Computation",
+        "parents": {
+            "52dc7870-f252-11e7-9eff-e31d46913e2f": true
+        },
+        "source": "ACT"
+    },
+    "84149160-8f56-11e8-aec0-d7706cc09bba": {
+        "children": null,
+        "code": "Confusing Pairs",
+        "description": {
+            "longDescription": "Confusing Pairs",
+            "shortDescription": "Confusing Pairs"
+        },
+        "exemplarItems": null,
+        "id": "84149160-8f56-11e8-aec0-d7706cc09bba",
+        "matchedItems": null,
+        "name": "Confusing Pairs",
+        "parents": {
+            "78d8ea40-f10d-11e7-8c0b-012d13d1dc98": true
+        },
+        "source": "ACT"
+    },
+    "84bc04f0-f266-11e7-93b0-adc58ef477c1": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "84bc04f0-f266-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Model Information",
+        "parents": {
+            "3127d710-f266-11e7-93b0-adc58ef477c1": true
+        },
+        "source": "ACT"
+    },
+    "84dffd20-f265-11e7-93b0-adc58ef477c1": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "84dffd20-f265-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Cause-Effect Relationships",
+        "parents": {
+            "7a430240-f265-11e7-93b0-adc58ef477c1": true
+        },
+        "source": "ACT"
+    },
+    "88330dd0-f267-11e7-93b0-adc58ef477c1": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "88330dd0-f267-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Methods",
+        "parents": {
+            "61603de0-f267-11e7-93b0-adc58ef477c1": true
+        },
+        "source": "ACT"
+    },
+    "88dbc5b0-f10e-11e7-8c0b-012d13d1dc98": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "88dbc5b0-f10e-11e7-8c0b-012d13d1dc98",
+        "matchedItems": null,
+        "name": "Conjunctions",
+        "parents": {
+            "7fc19a40-f10e-11e7-8c0b-012d13d1dc98": true
+        },
+        "source": "ACT"
+    },
+    "8af0dad0-f252-11e7-9eff-e31d46913e2f": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "8af0dad0-f252-11e7-9eff-e31d46913e2f",
+        "matchedItems": null,
+        "name": "Number Concepts & Properties",
+        "parents": {
+            "52dc7870-f252-11e7-9eff-e31d46913e2f": true
+        },
+        "source": "ACT"
+    },
+    "8b11fcc0-f265-11e7-93b0-adc58ef477c1": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "8b11fcc0-f265-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Comparative Relationships",
+        "parents": {
+            "7a430240-f265-11e7-93b0-adc58ef477c1": true
+        },
+        "source": "ACT"
+    },
+    "8b657e80-f266-11e7-93b0-adc58ef477c1": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "8b657e80-f266-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "New Information & Predictions on Models",
+        "parents": {
+            "3127d710-f266-11e7-93b0-adc58ef477c1": true
+        },
+        "source": "ACT"
+    },
+    "8c168990-f267-11e7-93b0-adc58ef477c1": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "8c168990-f267-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Precision & Accuracy",
+        "parents": {
+            "61603de0-f267-11e7-93b0-adc58ef477c1": true
+        },
+        "source": "ACT"
+    },
+    "8c80a740-f10d-11e7-8c0b-012d13d1dc98": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "8c80a740-f10d-11e7-8c0b-012d13d1dc98",
+        "matchedItems": null,
+        "name": "Forming Verbs",
+        "parents": {
+            "78d8ea40-f10d-11e7-8c0b-012d13d1dc98": true
+        },
+        "source": "ACT"
+    },
+    "935cebf0-f252-11e7-9eff-e31d46913e2f": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "935cebf0-f252-11e7-9eff-e31d46913e2f",
+        "matchedItems": null,
+        "name": "Number Line & Absolute Value",
+        "parents": {
+            "52dc7870-f252-11e7-9eff-e31d46913e2f": true
+        },
+        "source": "ACT"
+    },
+    "939cf5a0-f267-11e7-93b0-adc58ef477c1": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "939cf5a0-f267-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Prediction & Further Experiments",
+        "parents": {
+            "61603de0-f267-11e7-93b0-adc58ef477c1": true
+        },
+        "source": "ACT"
+    },
+    "93f47660-f265-11e7-93b0-adc58ef477c1": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "93f47660-f265-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Sequence of Events",
+        "parents": {
+            "7a430240-f265-11e7-93b0-adc58ef477c1": true
+        },
+        "source": "ACT"
+    },
+    "940e7190-f266-11e7-93b0-adc58ef477c1": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "940e7190-f266-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Support of Hypotheses",
+        "parents": {
+            "3127d710-f266-11e7-93b0-adc58ef477c1": true
+        },
+        "source": "ACT"
+    },
+    "94354f40-f10d-11e7-8c0b-012d13d1dc98": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "94354f40-f10d-11e7-8c0b-012d13d1dc98",
+        "matchedItems": null,
+        "name": "Idiom",
+        "parents": {
+            "78d8ea40-f10d-11e7-8c0b-012d13d1dc98": true
+        },
+        "source": "ACT"
+    },
+    "94562840-f10e-11e7-8c0b-012d13d1dc98": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "94562840-f10e-11e7-8c0b-012d13d1dc98",
+        "matchedItems": null,
+        "name": "Vague & Clumsy Writing",
+        "parents": {
+            "7fc19a40-f10e-11e7-8c0b-012d13d1dc98": true
+        },
+        "source": "ACT"
+    },
+    "9b09ff90-f262-11e7-93b0-adc58ef477c1": {
+        "children": {
+            "0b7e6bf0-f266-11e7-93b0-adc58ef477c1": true,
+            "7a430240-f265-11e7-93b0-adc58ef477c1": true,
+            "a1d85ee0-f265-11e7-93b0-adc58ef477c1": true,
+            "a3c987e0-f262-11e7-93b0-adc58ef477c1": true,
+            "b8d75d30-f265-11e7-93b0-adc58ef477c1": true,
+            "c43146d0-f262-11e7-93b0-adc58ef477c1": true,
+            "d5056a10-f265-11e7-93b0-adc58ef477c1": true,
+            "efddf910-f265-11e7-93b0-adc58ef477c1": true
+        },
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "9b09ff90-f262-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "ACT Reading",
+        "parents": {
+            "08042760-f268-11e7-be3a-f595c2c98a2b": true
+        },
+        "source": "ACT"
+    },
+    "9d20df60-f267-11e7-93b0-adc58ef477c1": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "9d20df60-f267-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Text & Experiments",
+        "parents": {
+            "61603de0-f267-11e7-93b0-adc58ef477c1": true
+        },
+        "source": "ACT"
+    },
+    "9ecb5080-f266-11e7-93b0-adc58ef477c1": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "9ecb5080-f266-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Support or Weakening of Models",
+        "parents": {
+            "3127d710-f266-11e7-93b0-adc58ef477c1": true
+        },
+        "source": "ACT"
+    },
+    "a1d85ee0-f265-11e7-93b0-adc58ef477c1": {
+        "children": {
+            "a90204f0-f265-11e7-93b0-adc58ef477c1": true,
+            "b1759020-f265-11e7-93b0-adc58ef477c1": true
+        },
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "a1d85ee0-f265-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Word Meaning & Choice",
+        "parents": {
+            "9b09ff90-f262-11e7-93b0-adc58ef477c1": true
+        },
+        "source": "ACT"
+    },
+    "a3a82af0-f267-11e7-93b0-adc58ef477c1": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "a3a82af0-f267-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Tools",
+        "parents": {
+            "61603de0-f267-11e7-93b0-adc58ef477c1": true
+        },
+        "source": "ACT"
+    },
+    "a3c987e0-f262-11e7-93b0-adc58ef477c1": {
+        "children": {
+            "aab3b3f0-f262-11e7-93b0-adc58ef477c1": true,
+            "b31b0a20-f262-11e7-93b0-adc58ef477c1": true,
+            "b816aca0-f262-11e7-93b0-adc58ef477c1": true
+        },
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "a3c987e0-f262-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Close Reading",
+        "parents": {
+            "9b09ff90-f262-11e7-93b0-adc58ef477c1": true
+        },
+        "source": "ACT"
+    },
+    "a408d2c0-f10d-11e7-8c0b-012d13d1dc98": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "a408d2c0-f10d-11e7-8c0b-012d13d1dc98",
+        "matchedItems": null,
+        "name": "Prepositions",
+        "parents": {
+            "78d8ea40-f10d-11e7-8c0b-012d13d1dc98": true
+        },
+        "source": "ACT"
+    },
+    "a63d1560-f261-11e7-93b0-adc58ef477c1": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "a63d1560-f261-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Properties of Algebra",
+        "parents": {
+            "4e5adf90-f260-11e7-a381-213231f6f6cb": true
+        },
+        "source": "ACT"
+    },
+    "a7203020-f266-11e7-93b0-adc58ef477c1": {
+        "children": {
+            "3cb88b50-f267-11e7-93b0-adc58ef477c1": true,
+            "423348e0-f267-11e7-93b0-adc58ef477c1": true,
+            "4ab09810-f267-11e7-93b0-adc58ef477c1": true,
+            "50ba7640-f267-11e7-93b0-adc58ef477c1": true,
+            "590c96c0-f267-11e7-93b0-adc58ef477c1": true,
+            "aed2b540-f266-11e7-93b0-adc58ef477c1": true,
+            "b6a28660-f266-11e7-93b0-adc58ef477c1": true,
+            "bb84ad70-f266-11e7-93b0-adc58ef477c1": true
+        },
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "a7203020-f266-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Interpretation of Data",
+        "parents": {
+            "212665c0-f266-11e7-93b0-adc58ef477c1": true
+        },
+        "source": "ACT"
+    },
+    "a90204f0-f265-11e7-93b0-adc58ef477c1": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "a90204f0-f265-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Analyze Word & Phrase Choices",
+        "parents": {
+            "a1d85ee0-f265-11e7-93b0-adc58ef477c1": true
+        },
+        "source": "ACT"
+    },
+    "a9ec5300-f267-11e7-93b0-adc58ef477c1": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "a9ec5300-f267-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Understanding Design",
+        "parents": {
+            "61603de0-f267-11e7-93b0-adc58ef477c1": true
+        },
+        "source": "ACT"
+    },
+    "aab3b3f0-f262-11e7-93b0-adc58ef477c1": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "aab3b3f0-f262-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Paraphrase",
+        "parents": {
+            "a3c987e0-f262-11e7-93b0-adc58ef477c1": true
+        },
+        "source": "ACT"
+    },
+    "aed2b540-f266-11e7-93b0-adc58ef477c1": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "aed2b540-f266-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Compare or Combine",
+        "parents": {
+            "a7203020-f266-11e7-93b0-adc58ef477c1": true
+        },
+        "source": "ACT"
+    },
+    "afc80400-f261-11e7-93b0-adc58ef477c1": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "afc80400-f261-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Inequalities & Absolute Value",
+        "parents": {
+            "4e5adf90-f260-11e7-a381-213231f6f6cb": true
+        },
+        "source": "ACT"
+    },
+    "b1759020-f265-11e7-93b0-adc58ef477c1": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "b1759020-f265-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Interpret Words & Phrases",
+        "parents": {
+            "a1d85ee0-f265-11e7-93b0-adc58ef477c1": true
+        },
+        "source": "ACT"
+    },
+    "b31b0a20-f262-11e7-93b0-adc58ef477c1": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "b31b0a20-f262-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Locate",
+        "parents": {
+            "a3c987e0-f262-11e7-93b0-adc58ef477c1": true
+        },
+        "source": "ACT"
+    },
+    "b6a28660-f266-11e7-93b0-adc58ef477c1": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "b6a28660-f266-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Creating Figures",
+        "parents": {
+            "a7203020-f266-11e7-93b0-adc58ef477c1": true
+        },
+        "source": "ACT"
+    },
+    "b816aca0-f262-11e7-93b0-adc58ef477c1": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "b816aca0-f262-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Draw Conclusions",
+        "parents": {
+            "a3c987e0-f262-11e7-93b0-adc58ef477c1": true
+        },
+        "source": "ACT"
+    },
+    "b8d75d30-f265-11e7-93b0-adc58ef477c1": {
+        "children": {
+            "bf91edc0-f265-11e7-93b0-adc58ef477c1": true,
+            "c60bcbd0-f265-11e7-93b0-adc58ef477c1": true,
+            "cb2b22f0-f265-11e7-93b0-adc58ef477c1": true
+        },
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "b8d75d30-f265-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Text Structure",
+        "parents": {
+            "9b09ff90-f262-11e7-93b0-adc58ef477c1": true
+        },
+        "source": "ACT"
+    },
+    "bb84ad70-f266-11e7-93b0-adc58ef477c1": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "bb84ad70-f266-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Interpolation & Extrapolation",
+        "parents": {
+            "a7203020-f266-11e7-93b0-adc58ef477c1": true
+        },
+        "source": "ACT"
+    },
+    "bd40f5b0-f261-11e7-93b0-adc58ef477c1": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "bd40f5b0-f261-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Slope",
+        "parents": {
+            "4e5adf90-f260-11e7-a381-213231f6f6cb": true
+        },
+        "source": "ACT"
+    },
+    "bf91edc0-f265-11e7-93b0-adc58ef477c1": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "bf91edc0-f265-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Analyze Structure",
+        "parents": {
+            "b8d75d30-f265-11e7-93b0-adc58ef477c1": true
+        },
+        "source": "ACT"
+    },
+    "c04e42c0-f10e-11e7-8c0b-012d13d1dc98": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "c04e42c0-f10e-11e7-8c0b-012d13d1dc98",
+        "matchedItems": null,
+        "name": "Word Choice",
+        "parents": {
+            "7fc19a40-f10e-11e7-8c0b-012d13d1dc98": true
+        },
+        "source": "ACT"
+    },
+    "c43146d0-f262-11e7-93b0-adc58ef477c1": {
+        "children": {
+            "cdc00600-f262-11e7-93b0-adc58ef477c1": true,
+            "d57f3550-f262-11e7-93b0-adc58ef477c1": true
+        },
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "c43146d0-f262-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Central Ideas",
+        "parents": {
+            "9b09ff90-f262-11e7-93b0-adc58ef477c1": true
+        },
+        "source": "ACT"
+    },
+    "c58867d0-f261-11e7-93b0-adc58ef477c1": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "c58867d0-f261-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Solving Equations",
+        "parents": {
+            "4e5adf90-f260-11e7-a381-213231f6f6cb": true
+        },
+        "source": "ACT"
+    },
+    "c60bcbd0-f265-11e7-93b0-adc58ef477c1": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "c60bcbd0-f265-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Function",
+        "parents": {
+            "b8d75d30-f265-11e7-93b0-adc58ef477c1": true
+        },
+        "source": "ACT"
+    },
+    "c9837040-f10e-11e7-8c0b-012d13d1dc98": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "c9837040-f10e-11e7-8c0b-012d13d1dc98",
+        "matchedItems": null,
+        "name": "Redundancy",
+        "parents": {
+            "7fc19a40-f10e-11e7-8c0b-012d13d1dc98": true
+        },
+        "source": "ACT"
+    },
+    "cb2b22f0-f265-11e7-93b0-adc58ef477c1": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "cb2b22f0-f265-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Relate to Passage as a Whole",
+        "parents": {
+            "b8d75d30-f265-11e7-93b0-adc58ef477c1": true
+        },
+        "source": "ACT"
+    },
+    "cd45e970-f261-11e7-93b0-adc58ef477c1": {
+        "children": {
+            "014782b0-f262-11e7-93b0-adc58ef477c1": false,
+            "0b8ebc70-f262-11e7-93b0-adc58ef477c1": true,
+            "15fcb810-f262-11e7-93b0-adc58ef477c1": true,
+            "1edbaf40-f262-11e7-93b0-adc58ef477c1": true,
+            "2598b0d0-f262-11e7-93b0-adc58ef477c1": true,
+            "2c5711f0-f262-11e7-93b0-adc58ef477c1": true,
+            "d7e4b910-f261-11e7-93b0-adc58ef477c1": true,
+            "e0731f40-f261-11e7-93b0-adc58ef477c1": true,
+            "eed8e1f0-f261-11e7-93b0-adc58ef477c1": true,
+            "f7130da0-f261-11e7-93b0-adc58ef477c1": true
+        },
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "cd45e970-f261-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Functions",
+        "parents": {
+            "e1e56730-f251-11e7-9eff-e31d46913e2f": true
+        },
+        "source": "ACT"
+    },
+    "cdc00600-f262-11e7-93b0-adc58ef477c1": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "cdc00600-f262-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Central Ideas & Themes",
+        "parents": {
+            "c43146d0-f262-11e7-93b0-adc58ef477c1": true
+        },
+        "source": "ACT"
+    },
+    "d0c2e840-f10e-11e7-8c0b-012d13d1dc98": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "d0c2e840-f10e-11e7-8c0b-012d13d1dc98",
+        "matchedItems": null,
+        "name": "Style & Tone",
+        "parents": {
+            "7fc19a40-f10e-11e7-8c0b-012d13d1dc98": true
+        },
+        "source": "ACT"
+    },
+    "d3528940-f10d-11e7-8c0b-012d13d1dc98": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "d3528940-f10d-11e7-8c0b-012d13d1dc98",
+        "matchedItems": null,
+        "name": "Pronoun-Antecedent Agreement",
+        "parents": {
+            "78d8ea40-f10d-11e7-8c0b-012d13d1dc98": true
+        },
+        "source": "ACT"
+    },
+    "d5056a10-f265-11e7-93b0-adc58ef477c1": {
+        "children": {
+            "dc42e640-f265-11e7-93b0-adc58ef477c1": true,
+            "e5fd7060-f265-11e7-93b0-adc58ef477c1": true
+        },
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "d5056a10-f265-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Purpose & Point of View",
+        "parents": {
+            "9b09ff90-f262-11e7-93b0-adc58ef477c1": true
+        },
+        "source": "ACT"
+    },
+    "d57f3550-f262-11e7-93b0-adc58ef477c1": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "d57f3550-f262-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Summarize Key Ideas & Details",
+        "parents": {
+            "c43146d0-f262-11e7-93b0-adc58ef477c1": true
+        },
+        "source": "ACT"
+    },
+    "d7e4b910-f261-11e7-93b0-adc58ef477c1": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "d7e4b910-f261-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Creating Functions",
+        "parents": {
+            "cd45e970-f261-11e7-93b0-adc58ef477c1": true
+        },
+        "source": "ACT"
+    },
+    "d9511240-f10c-11e7-8c0b-012d13d1dc98": {
+        "children": {
+            "21a20840-f10f-11e7-8c0b-012d13d1dc98": true,
+            "78d8ea40-f10d-11e7-8c0b-012d13d1dc98": true,
+            "7fc19a40-f10e-11e7-8c0b-012d13d1dc98": true,
+            "dc5ba840-f10e-11e7-8c0b-012d13d1dc98": true,
+            "f1371530-f10c-11e7-8c0b-012d13d1dc98": true,
+            "fd1ca030-f10d-11e7-8c0b-012d13d1dc98": true
+        },
+        "code": "ACT-E",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "d9511240-f10c-11e7-8c0b-012d13d1dc98",
+        "matchedItems": null,
+        "name": "ACT English",
+        "parents": {
+            "08042760-f268-11e7-be3a-f595c2c98a2b": true
+        },
+        "source": "ACT"
+    },
+    "db99ad40-f10d-11e7-8c0b-012d13d1dc98": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "db99ad40-f10d-11e7-8c0b-012d13d1dc98",
+        "matchedItems": null,
+        "name": "Adjectives & Adverbs",
+        "parents": {
+            "78d8ea40-f10d-11e7-8c0b-012d13d1dc98": true
+        },
+        "source": "ACT"
+    },
+    "dc42e640-f265-11e7-93b0-adc58ef477c1": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "dc42e640-f265-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Intent & Purpose",
+        "parents": {
+            "d5056a10-f265-11e7-93b0-adc58ef477c1": true
+        },
+        "source": "ACT"
+    },
+    "dc5ba840-f10e-11e7-8c0b-012d13d1dc98": {
+        "children": {
+            "0407c130-f10f-11e7-8c0b-012d13d1dc98": true,
+            "107d73b0-f10f-11e7-8c0b-012d13d1dc98": true,
+            "180d7cb0-f10f-11e7-8c0b-012d13d1dc98": true,
+            "e87223c0-f10e-11e7-8c0b-012d13d1dc98": true,
+            "f380f340-f10e-11e7-8c0b-012d13d1dc98": true,
+            "fca4e2b0-f10e-11e7-8c0b-012d13d1dc98": true
+        },
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "dc5ba840-f10e-11e7-8c0b-012d13d1dc98",
+        "matchedItems": null,
+        "name": "Organization",
+        "parents": {
+            "d9511240-f10c-11e7-8c0b-012d13d1dc98": true
+        },
+        "source": "ACT"
+    },
+    "e0731f40-f261-11e7-93b0-adc58ef477c1": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "e0731f40-f261-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Domain, Range & Function",
+        "parents": {
+            "cd45e970-f261-11e7-93b0-adc58ef477c1": true
+        },
+        "source": "ACT"
+    },
+    "e1e56730-f251-11e7-9eff-e31d46913e2f": {
+        "children": {
+            "035658c0-f252-11e7-9eff-e31d46913e2f": false,
+            "105c8b70-f252-11e7-9eff-e31d46913e2f": false,
+            "1b50f520-f252-11e7-9eff-e31d46913e2f": false,
+            "25d67060-f252-11e7-9eff-e31d46913e2f": false,
+            "33723910-f262-11e7-93b0-adc58ef477c1": true,
+            "4e5adf90-f260-11e7-a381-213231f6f6cb": true,
+            "52dc7870-f252-11e7-9eff-e31d46913e2f": true,
+            "cd45e970-f261-11e7-93b0-adc58ef477c1": true,
+            "f1fcaa70-f251-11e7-9eff-e31d46913e2f": true
+        },
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "e1e56730-f251-11e7-9eff-e31d46913e2f",
+        "matchedItems": null,
+        "name": "ACT Math",
+        "parents": {
+            "08042760-f268-11e7-be3a-f595c2c98a2b": true
+        },
+        "source": "ACT"
+    },
+    "e5fd7060-f265-11e7-93b0-adc58ef477c1": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "e5fd7060-f265-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Point of View",
+        "parents": {
+            "d5056a10-f265-11e7-93b0-adc58ef477c1": true
+        },
+        "source": "ACT"
+    },
+    "e87223c0-f10e-11e7-8c0b-012d13d1dc98": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "e87223c0-f10e-11e7-8c0b-012d13d1dc98",
+        "matchedItems": null,
+        "name": "Introductions & Conclusions",
+        "parents": {
+            "dc5ba840-f10e-11e7-8c0b-012d13d1dc98": true
+        },
+        "source": "ACT"
+    },
+    "ebf350b0-f10d-11e7-8c0b-012d13d1dc98": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "ebf350b0-f10d-11e7-8c0b-012d13d1dc98",
+        "matchedItems": null,
+        "name": "Pronouns",
+        "parents": {
+            "78d8ea40-f10d-11e7-8c0b-012d13d1dc98": true
+        },
+        "source": "ACT"
+    },
+    "eed8e1f0-f261-11e7-93b0-adc58ef477c1": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "eed8e1f0-f261-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Function Graphs - Coordinate Plane",
+        "parents": {
+            "cd45e970-f261-11e7-93b0-adc58ef477c1": true
+        },
+        "source": "ACT"
+    },
+    "efddf910-f265-11e7-93b0-adc58ef477c1": {
+        "children": {
+            "00d0cf40-f266-11e7-93b0-adc58ef477c1": true,
+            "f6b9a630-f265-11e7-93b0-adc58ef477c1": true
+        },
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "efddf910-f265-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Arguments",
+        "parents": {
+            "9b09ff90-f262-11e7-93b0-adc58ef477c1": true
+        },
+        "source": "ACT"
+    },
+    "f1371530-f10c-11e7-8c0b-012d13d1dc98": {
+        "children": {
+            "2a794930-f10d-11e7-8c0b-012d13d1dc98": true,
+            "3ce9beb0-f10d-11e7-8c0b-012d13d1dc98": true,
+            "458ee130-f10d-11e7-8c0b-012d13d1dc98": true,
+            "61bfd440-f10d-11e7-8c0b-012d13d1dc98": true,
+            "6efb47c0-f10d-11e7-8c0b-012d13d1dc98": true
+        },
+        "code": "ACT-E-PUN",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "f1371530-f10c-11e7-8c0b-012d13d1dc98",
+        "matchedItems": null,
+        "name": "Punctuation Conventions",
+        "parents": {
+            "d9511240-f10c-11e7-8c0b-012d13d1dc98": true
+        },
+        "source": "ACT"
+    },
+    "f1fcaa70-f251-11e7-9eff-e31d46913e2f": {
+        "children": {
+            "035658c0-f252-11e7-9eff-e31d46913e2f": true,
+            "105c8b70-f252-11e7-9eff-e31d46913e2f": true,
+            "1b50f520-f252-11e7-9eff-e31d46913e2f": true,
+            "25d67060-f252-11e7-9eff-e31d46913e2f": true
+        },
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "f1fcaa70-f251-11e7-9eff-e31d46913e2f",
+        "matchedItems": null,
+        "name": "Statistics & Probability",
+        "parents": {
+            "e1e56730-f251-11e7-9eff-e31d46913e2f": true
+        },
+        "source": "ACT"
+    },
+    "f291cdc0-f10d-11e7-8c0b-012d13d1dc98": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "f291cdc0-f10d-11e7-8c0b-012d13d1dc98",
+        "matchedItems": null,
+        "name": "Subject-Verb Agreement",
+        "parents": {
+            "78d8ea40-f10d-11e7-8c0b-012d13d1dc98": true
+        },
+        "source": "ACT"
+    },
+    "f380f340-f10e-11e7-8c0b-012d13d1dc98": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "f380f340-f10e-11e7-8c0b-012d13d1dc98",
+        "matchedItems": null,
+        "name": "Paragraph Division",
+        "parents": {
+            "dc5ba840-f10e-11e7-8c0b-012d13d1dc98": true
+        },
+        "source": "ACT"
+    },
+    "f6b9a630-f265-11e7-93b0-adc58ef477c1": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "f6b9a630-f265-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Identifying Claims",
+        "parents": {
+            "efddf910-f265-11e7-93b0-adc58ef477c1": true
+        },
+        "source": "ACT"
+    },
+    "f7130da0-f261-11e7-93b0-adc58ef477c1": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "f7130da0-f261-11e7-93b0-adc58ef477c1",
+        "matchedItems": null,
+        "name": "Trig Functions",
+        "parents": {
+            "cd45e970-f261-11e7-93b0-adc58ef477c1": true
+        },
+        "source": "ACT"
+    },
+    "fca4e2b0-f10e-11e7-8c0b-012d13d1dc98": {
+        "children": null,
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "fca4e2b0-f10e-11e7-8c0b-012d13d1dc98",
+        "matchedItems": null,
+        "name": "Sentence Placement",
+        "parents": {
+            "dc5ba840-f10e-11e7-8c0b-012d13d1dc98": true
+        },
+        "source": "ACT"
+    },
+    "fd1ca030-f10d-11e7-8c0b-012d13d1dc98": {
+        "children": {
+            "07fbd430-f10e-11e7-8c0b-012d13d1dc98": true,
+            "12bc83b0-f10e-11e7-8c0b-012d13d1dc98": true
+        },
+        "code": "",
+        "description": {
+            "longDescription": "",
+            "shortDescription": ""
+        },
+        "exemplarItems": null,
+        "id": "fd1ca030-f10d-11e7-8c0b-012d13d1dc98",
+        "matchedItems": null,
+        "name": "Sentence Structure",
+        "parents": {
+            "d9511240-f10c-11e7-8c0b-012d13d1dc98": true
+        },
+        "source": "ACT"
+    }
+}
